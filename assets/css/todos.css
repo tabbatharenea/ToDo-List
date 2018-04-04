@@ -84,3 +84,7 @@ input:focus {
   color: gray;
   text-decoration: line-through;
 }
+
+img {
+  display: none;
+}
